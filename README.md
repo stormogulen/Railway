@@ -32,7 +32,6 @@ Track Sections
 The project uses the following Rust crates:
 
 - tokio: Asynchronous runtime for Rust.
-- serde: Serialization and deserialization library for Rust.
 
 ## Train Simulation
 
